@@ -45,3 +45,29 @@ Nesta seção, conectamos os conceitos estudados com exemplos reais e com os liv
 - **Privacidade Digital**: Em *The Art of Invisibility*, Mitnick alerta sobre a importância de proteger informações pessoais. Esse tema é aplicado em práticas como uso de VPNs, criptografia e autenticação multifator.  
 
 Esses exemplos mostram como os conceitos do glossário não são apenas teóricos, mas aparecem em ataques reais e em recomendações práticas de defesa.
+
+## Miniguia de Estudo
+
+Este miniguia reúne os principais aprendizados sobre Kevin Mitnick e cibersegurança, servindo como referência rápida para revisões futuras.
+
+### Resumo Estruturado
+- Kevin Mitnick destacou a **engenharia social** como a maior vulnerabilidade da segurança digital.  
+- Seus livros mostram que tecnologia sozinha não basta; é preciso treinar pessoas contra manipulações.  
+- Casos reais de invasões revelam como falhas humanas são exploradas e como poderiam ser evitadas.  
+- A privacidade digital é um tema central em sua obra mais recente (*The Art of Invisibility*).  
+
+### Glossário Essencial
+- **Engenharia Social**: Manipulação psicológica para obter acesso a informações.  
+- **Phishing**: Mensagens falsas que imitam fontes confiáveis.  
+- **Malware**: Programas maliciosos que comprometem sistemas.  
+- **Ransomware**: Malware que sequestra dados e exige resgate.  
+- **Spoofing**: Falsificação de identidade digital.  
+- **Zero-Day**: Vulnerabilidade desconhecida explorada antes de correção.  
+- **DDoS**: Ataque que sobrecarrega servidores com tráfego excessivo.  
+
+### Prompts Reutilizáveis
+- Explique como Kevin Mitnick aborda a **engenharia social** em seus livros.  
+- Liste exemplos de ataques de **phishing** e como preveni-los.  
+- Resuma o conceito de **ransomware** e sua evolução.  
+- Mostre como a **privacidade digital** é tratada em *The Art of Invisibility*.  
+- Compare os livros *A Arte de Enganar* e *A Arte de Invadir* em termos de foco e exemplos.  
