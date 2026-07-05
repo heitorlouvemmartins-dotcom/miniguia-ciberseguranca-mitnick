@@ -13,8 +13,8 @@ Projeto prático DIO: NotebookLM aplicado à cibersegurança
 
 ## Curadoria de Fontes
 
-- [A Arte de Enganar (The Art of Deception)](https://www.amazon.com.br/dp/8535212273) – Kevin Mitnick & William Simon  
-- [A Arte de Invadir (The Art of Intrusion)](https://www.amazon.com.br/dp/8535212281) – Kevin Mitnick & William Simon  
+- [A Arte de Enganar (The Art of Deception)](https://www.mercadolivre.com.br/livro-a-arte-do-enganar-controlando-o-elemento-humano-da-s/p/MLB2083788024) – Kevin Mitnick & William Simon 
+- [A Arte de Invadir (The Art of Intrusion) – ComCiência](https://www.comciencia.br/em-a-arte-de-invadir-o-hacker-mais-procurado-do-mundo-revela-os-bastidores-dos-crimes-ciberneticos/) – Kevin Mitnick & William Simon 
 - [Ghost in the Wires](https://www.amazon.com.br/dp/0316037702) – Kevin Mitnick  
 - [The Art of Invisibility](https://www.amazon.com.br/dp/0316380520) – Kevin Mitnick  
 - [Biografia de Kevin Mitnick](https://pt.wikipedia.org/wiki/Kevin_Mitnick)  
