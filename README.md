@@ -31,3 +31,17 @@ Projeto prático DIO: NotebookLM aplicado à cibersegurança
 - **Zero-Day**: Vulnerabilidade desconhecida pelos desenvolvedores e explorada por atacantes antes de ser corrigida.  
 - **Botnet**: Rede de computadores infectados controlados remotamente para realizar ataques em massa.  
 - **DDoS (Distributed Denial of Service)**: Ataque que sobrecarrega servidores com tráfego excessivo, tornando serviços indisponíveis.    
+
+## Aplicações Práticas
+
+Nesta seção, conectamos os conceitos estudados com exemplos reais e com os livros de Kevin Mitnick:
+
+- **Engenharia Social**: Em *A Arte de Enganar*, Mitnick mostra como hackers exploram a confiança humana para obter acesso a sistemas. Esse conceito aparece em ataques modernos de phishing, onde usuários são induzidos a clicar em links maliciosos.  
+
+- **Phishing e Spoofing**: Em *The Art of Intrusion*, são relatados casos em que criminosos falsificaram identidades digitais para enganar empresas. Hoje, essas técnicas são comuns em golpes bancários e fraudes por e-mail.  
+
+- **Ransomware**: Embora não fosse tão popular na época dos primeiros livros de Mitnick, o conceito de malware que sequestra dados conecta-se diretamente às vulnerabilidades humanas descritas por ele.  
+
+- **Privacidade Digital**: Em *The Art of Invisibility*, Mitnick alerta sobre a importância de proteger informações pessoais. Esse tema é aplicado em práticas como uso de VPNs, criptografia e autenticação multifator.  
+
+Esses exemplos mostram como os conceitos do glossário não são apenas teóricos, mas aparecem em ataques reais e em recomendações práticas de defesa.
