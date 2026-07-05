@@ -13,10 +13,9 @@ Projeto prático DIO: NotebookLM aplicado à cibersegurança
 
 ## Curadoria de Fontes
 
-Nesta seção estão listadas as principais referências utilizadas para estudar Kevin Mitnick e cibersegurança:
-
-- [A Arte de Enganar (The Art of Deception)](link) – Kevin Mitnick & William Simon  
-- [A Arte de Invadir (The Art of Intrusion)](link) – Kevin Mitnick & William Simon  
-- [Ghost in the Wires](link) – Kevin Mitnick  
-- [The Art of Invisibility](link) – Kevin Mitnick  
-- [Biografia na Wikipédia](link)  
+- [A Arte de Enganar (The Art of Deception)](https://bookey.app/book/a-arte-de-enganar) – Kevin Mitnick & William Simon  
+- [A Arte de Invadir (The Art of Intrusion)](https://bookey.app/book/a-arte-de-invadir) – Kevin Mitnick & William Simon  
+- [Ghost in the Wires](https://www.getabstract.com/en/summary/ghost-in-the-wires/16868) – Kevin Mitnick  
+- [The Art of Invisibility](https://bookey.app/book/a-arte-da-invisibilidade) – Kevin Mitnick  
+- [Biografia na Wikipédia](https://pt.wikipedia.org/wiki/Kevin_Mitnick)  
+  
