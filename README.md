@@ -26,3 +26,8 @@ Projeto prático DIO: NotebookLM aplicado à cibersegurança
 - **Malware**: Programa malicioso criado para danificar, explorar ou obter acesso não autorizado a sistemas.  
 - **Firewall**: Sistema de defesa que controla o tráfego de rede, bloqueando acessos não autorizados.  
 - **Criptografia**: Processo de codificação de informações para proteger dados contra acessos indevidos.  
+- **Ransomware**: Tipo de malware que bloqueia o acesso a dados ou sistemas e exige pagamento de resgate para liberar.  
+- **Spoofing**: Técnica de falsificação de identidade digital, como e-mails ou IPs, para enganar usuários ou sistemas.  
+- **Zero-Day**: Vulnerabilidade desconhecida pelos desenvolvedores e explorada por atacantes antes de ser corrigida.  
+- **Botnet**: Rede de computadores infectados controlados remotamente para realizar ataques em massa.  
+- **DDoS (Distributed Denial of Service)**: Ataque que sobrecarrega servidores com tráfego excessivo, tornando serviços indisponíveis.    
