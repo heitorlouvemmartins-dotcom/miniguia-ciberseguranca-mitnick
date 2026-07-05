@@ -18,3 +18,11 @@ Projeto prático DIO: NotebookLM aplicado à cibersegurança
 - [Ghost in the Wires](https://www.amazon.com.br/dp/0316037702) – Kevin Mitnick  
 - [The Art of Invisibility](https://www.amazon.com.br/dp/0316380520) – Kevin Mitnick  
 - [Biografia de Kevin Mitnick](https://pt.wikipedia.org/wiki/Kevin_Mitnick)  
+
+## Glossário de Termos de Cibersegurança
+
+- **Engenharia Social**: Técnica usada por hackers para manipular pessoas e obter acesso a informações ou sistemas.  
+- **Phishing**: Tentativa de enganar usuários por meio de e-mails ou mensagens falsas que imitam fontes confiáveis.  
+- **Malware**: Programa malicioso criado para danificar, explorar ou obter acesso não autorizado a sistemas.  
+- **Firewall**: Sistema de defesa que controla o tráfego de rede, bloqueando acessos não autorizados.  
+- **Criptografia**: Processo de codificação de informações para proteger dados contra acessos indevidos.  
