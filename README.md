@@ -10,3 +10,13 @@ Este repositório faz parte de um projeto prático da DIO utilizando o NotebookL
 - Exercitar a curadoria de fontes e a engenharia de prompts aplicados ao NotebookLM.  
 # miniguia-ciberseguranca-mitnick
 Projeto prático DIO: NotebookLM aplicado à cibersegurança
+
+## Curadoria de Fontes
+
+Nesta seção estão listadas as principais referências utilizadas para estudar Kevin Mitnick e cibersegurança:
+
+- [A Arte de Enganar (The Art of Deception)](link) – Kevin Mitnick & William Simon  
+- [A Arte de Invadir (The Art of Intrusion)](link) – Kevin Mitnick & William Simon  
+- [Ghost in the Wires](link) – Kevin Mitnick  
+- [The Art of Invisibility](link) – Kevin Mitnick  
+- [Biografia na Wikipédia](link)  
